@@ -2,9 +2,9 @@ const mysql = require('mysql');
 
 const db = mysql.createConnection({
   host: 'localhost',
-  user: 'ridewaya_app',
-  password: 'Ddarren7$11',
-  database: 'ridewaya_app',
+  user: 'dbmasteruser',
+  password: ':}U!nQk=`I*;|Xt_:lV+58OF0+TM6y};',
+  database: 'dbmaster',
   charset: 'utf8mb4' // Agrega esta l¨ªnea
 
 });
